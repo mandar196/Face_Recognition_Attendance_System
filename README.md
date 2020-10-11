@@ -1,9 +1,6 @@
 # Face-Recognition-Attendance-System
 
-
-### Recognize The faces And Take Attandance:
-
-![Face Recognition Logo](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/Face-Recognition-Attendance-System-Logo.jpg)
+![logo](https://user-images.githubusercontent.com/61036755/95672993-97023f80-0bc2-11eb-9d99-2abbb8c5d85e.jpg)
 
 
 ## Motivation:
@@ -50,7 +47,6 @@ All The Module are Latest Version.
 
 Face Recognition Algorithms -
 * Haar Cascade
-* LBPH (Local Binary Pattern Histogram)
 
 Software Used -
 * Pycharm 2019.2
