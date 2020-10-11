@@ -115,5 +115,10 @@ If you want to use it just follow the steps below.
 3. Create an python enviroment
 4. Install all the packages 
 5. Change the mail information (automail.py)
-6. Run the project using the command line or your IDE Run Button
+6. Run the project using the command line or your IDE Run Button.
+
+
+If you like this repo, please don't forget to give a ⭐.
+
+If you like this repo, please don't forget to give a ⭐.
 
