@@ -120,5 +120,3 @@ If you want to use it just follow the steps below.
 
 If you like this repo, please don't forget to give a ⭐.
 
-If you like this repo, please don't forget to give a ⭐.
-
