@@ -6,11 +6,11 @@
 ![Face Recognition Logo](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/Face-Recognition-Attendance-System-Logo.jpg)
 
 
-## Motivation :astonished:
+## Motivation:
 ----------------------------
 We seek to provide a valuable attendance service for both teachers and students. Reduce manual process errors by providing automated and a reliable attendance system using face recognition technology.
 
-## Features :clipboard:
+## Features:
 ---------------------------
 * Check Camera
 * Capture Faces
@@ -18,11 +18,20 @@ We seek to provide a valuable attendance service for both teachers and students.
 * Recognize Faces & Attendance
 * Automatic Email
 
-## Screenshots :camera:
+## Screenshots:
 -----------------------------------
+![welcome](https://user-images.githubusercontent.com/61036755/95672925-3b37b680-0bc2-11eb-96c3-cbd0efb3b566.png)
+
+![id name](https://user-images.githubusercontent.com/61036755/95672930-412d9780-0bc2-11eb-945b-e524c0482dd7.png)
+
+![train imgs](https://user-images.githubusercontent.com/61036755/95672932-42f75b00-0bc2-11eb-9c06-1257af93166b.png)
+
+![25 man pass](https://user-images.githubusercontent.com/61036755/95672933-4559b500-0bc2-11eb-9d86-31d705035282.png)
+
+![csv details saved](https://user-images.githubusercontent.com/61036755/95672937-47bc0f00-0bc2-11eb-8460-fd448e5fcc9f.png)
 
 
-## Tools Used :
+## Tools Used:
 --------------------------
 Build With - 
 * Python 3.7
